@@ -1,0 +1,55 @@
+release.rafael mdsa
+instruções para a montagem de teste em ordem 
+
+1°) authentication 
+        criar a conta
+        aceita termos de uso 
+        fazer login
+        esqueci a senha
+        ações de conta
+      
+2°) accounting
+        criar pj mei
+        validar cnpj / cpf
+        informações financeira
+        envio de dados 
+        nfse
+
+
+3°) bank
+        abertura de conta 
+            pj
+            pf
+            informações
+       conta
+       favorecido
+       tranferencia
+       pagamento
+       boleto cartão
+ ?     utils 
+       link de pagamento 
+       folha de pagamento 
+
+
+4°) log 
+        cadastro de logista
+            registro 
+            entregas
+            taxa
+
+        cadastro de entregador
+            registro 
+            entregas
+            status de trabalho
+
+?       utils
+
+5°) messaging
+        atualizar token firebase
+        buscar historioco de notificações
+        consultar FAQ
+                bancario
+                cadastro
+                contabil
+                entrega
+                

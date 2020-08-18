@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+gem "httparty"
+gem "capybara"
+gem "rspec"
+gem "faker"
+gem "cucumber"
+gem "cpf_faker"
