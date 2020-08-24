@@ -1,2 +1,10 @@
-require 'httparty'
-require 'faker'
+require "cpf_faker"
+require "httparty"
+require "faker"
+require "cucumber"
+require "httparty/request"
+require "httparty/response/headers"
+require "rspec"
+require "json"
+require "uri"
+require "net/http"

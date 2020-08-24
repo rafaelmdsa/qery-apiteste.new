@@ -58,6 +58,7 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
+    json (2.3.1)
     middleware (0.1.0)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
@@ -67,6 +68,7 @@ GEM
     minitest (5.14.1)
     multi_test (0.1.2)
     multi_xml (0.6.0)
+    net-http (0.1.0)
     nokogiri (1.10.10-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     protobuf-cucumber (3.10.8)
@@ -98,6 +100,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
+    uri (0.10.0)
     xpath (3.2.0)
       nokogiri (~> 1.8)
     zeitwerk (2.4.0)
@@ -111,7 +114,10 @@ DEPENDENCIES
   cucumber
   faker
   httparty
+  json
+  net-http
   rspec
+  uri
 
 BUNDLED WITH
    2.1.4

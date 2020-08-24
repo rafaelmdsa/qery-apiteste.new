@@ -8,3 +8,7 @@ gem "rspec"
 gem "faker"
 gem "cucumber"
 gem "cpf_faker"
+gem "net-http"
+gem "uri"
+gem 'json'
+gem 'net-http'
